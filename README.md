@@ -3,7 +3,7 @@
 <h2> Cyber Security Projects:</h2>
 
 - <b>Azure Cloud Projects</b>
-  - [PCreating live SOC/Honet in Azure](https://github.com/marquezsf/Cloud-SOC)
+  - [Creating live SOC/Honet in Azure](https://github.com/marquezsf/Cloud-SOC)
     
 
 <h2> 🤳 Connect with me:</h2>
